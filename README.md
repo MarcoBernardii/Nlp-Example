@@ -1,14 +1,14 @@
 # TestNB
-Pacchetti Python e Altro necessari:
--Spacy
--Modelli di Spacy (Eng,It)
--Pandas
--sklearn
--DataFrame CSV presente in questa repo
-
-Comandi:
-pip install -U spacy
-python -m spacy download en_core_web_sm
-python -m spacy download en_core_web_lg
-python -m spacy download it_core_news_sm
-pip install pandas
+Pacchetti Python e Altro necessari:<br>
+-Spacy<br>
+-Modelli di Spacy (Eng,It)<br>
+-Pandas<br>
+-sklearn<br>
+-DataFrame CSV presente in questa repo<br>
+<br>
+Comandi:<br>
+pip install -U spacy<br>
+python -m spacy download en_core_web_sm<br>
+python -m spacy download en_core_web_lg<br>
+python -m spacy download it_core_news_sm<br>
+pip install pandas<br>
