@@ -1,4 +1,4 @@
-# TestNB
+# Esempi di NLP
 Pacchetti Python e Altro necessari:<br>
 -Spacy<br>
 -Modelli di Spacy (Eng,It)<br>
